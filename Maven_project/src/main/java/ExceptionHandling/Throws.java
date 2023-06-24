@@ -4,6 +4,7 @@ import java.io.IOException;
 
 public class Throws 
 {
+	
 	public void add() throws IOException
 	{
 		System.out.println("Exception");
